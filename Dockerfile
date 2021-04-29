@@ -1,4 +1,3 @@
-
 FROM rabbitmq:3.8.9-management-alpine
 MAINTAINER  joyuan
 ENV TZ=Asia/Shanghai
